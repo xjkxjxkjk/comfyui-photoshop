@@ -12,7 +12,7 @@ Seamlessly integrate ComfyUI's powerful AI capabilities into your Photoshop work
 ### 🚀 Follow the new version of Reezee AI here:
 
 **[⭐ Reezee AI — New Version](https://github.com/NimaNzrii/reezee-ai)**
-
+ 
 </div>
 
 ![Preview Image](https://raw.githubusercontent.com/NimaNzrii/comfyui-photoshop/main/data/PreviewFiles/pr1.jpg)
